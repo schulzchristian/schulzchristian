@@ -10,6 +10,7 @@
 ![pybind11](https://img.shields.io/badge/-pybind11-F7D44C?style=flat-square&logo=python&logoColor=black)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+[![Website](https://img.shields.io/badge/-schulzchristian.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://schulzchristian.github.io/)
 
 > My group engineers high-performance C++ solvers for NP-hard combinatorial problems, then ships them as open source. We care about both theoretical quality guarantees and real-world speed.
 
