@@ -11,7 +11,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-> I build algorithms that **decompose**, **partition**, and **optimize** massive graphs and hypergraphs. My group engineers high-performance C++ solvers for NP-hard combinatorial problems, then ships them as open source. We care about both theoretical quality guarantees and real-world speed.
+> My group engineers high-performance C++ solvers for NP-hard combinatorial problems, then ships them as open source. We care about both theoretical quality guarantees and real-world speed.
 
 ---
 
