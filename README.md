@@ -66,8 +66,10 @@ Maintaining solutions as graphs change over time, without recomputing from scrat
 | Problem | Solver | What it does |
 |---------|--------|-------------|
 | Dynamic Edge Orientation | [**DynDeltaOrientation**](https://github.com/DynGraphLab/DynDeltaOrientation) | Fully dynamic exact and heuristic delta-orientation |
+| Dynamic Orient. Approx. | [**DynDeltaApprox**](https://github.com/DynGraphLab/DynDeltaApprox) | Dynamic edge orientation approximation algorithms |
 | Dynamic Matching | [**DynMatch**](https://github.com/DynGraphLab/DynMatch) | Fully dynamic maximal matching algorithms |
 | Dynamic Indep. Set | [**DynWMIS**](https://github.com/DynGraphLab/DynWMIS) | Fully dynamic maximum weight independent set |
+| Dynamic Reachability | [**DynReach**](https://github.com/DynGraphLab/DynReach) | Fully dynamic reachability algorithms |
 
 ### Process Mapping & HPC
 
