@@ -135,8 +135,8 @@ pip install chszlablib
 ## Connect
 
 [![Website](https://img.shields.io/badge/-schulzchristian.github.io-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://schulzchristian.github.io/)
-[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=za1JZIYAAAAJ)
-[![LinkedIn](https://img.shields.io/badge/-Christian_Schulz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-schulz-2b67b0101/)
+[![Google Scholar](https://img.shields.io/badge/-Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.de/citations?hl=de&user=SZ_vC90AAAAJ)
+[![LinkedIn](https://img.shields.io/badge/-Christian_Schulz-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-schulz-/)
 [![Email](https://img.shields.io/badge/-christian.schulz@uni--heidelberg.de-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:christian.schulz@informatik.uni-heidelberg.de)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/schulzchristian)
 
