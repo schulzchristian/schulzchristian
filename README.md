@@ -107,7 +107,7 @@ pip install chszlablib
 - **Best Paper Award**, IEEE CLUSTER 2020 (Efficient Process-to-Node Mapping)
 - **Best Paper Award**, SEA 2023 (FREIGHT: Fast Streaming Hypergraph Partitioning)
 - **Heinz Billing Prize** and **KIT Doctoral Award**
-- **220+ publications** across ACM, IEEE, SIAM, and Springer venues
+- **120+ publications** across ACM, IEEE, SIAM, and Springer venues
 - **Steering Committee Chair**, SIAM ALENEX
 
 ---
