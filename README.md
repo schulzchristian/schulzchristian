@@ -42,6 +42,7 @@ Finding minimum cuts, maximum cuts, and natural communities in networks.
 | Minimum Cut | [**VieCut**](https://github.com/KaHIP/VieCut) | Shared-memory parallel exact and inexact minimum cuts, cactus representations, multiterminal cuts |
 | Maximum Cut | [**fpt-max-cut**](https://github.com/KaHIP/fpt-max-cut) | FPT kernelization + exact/heuristic solvers for max-cut |
 | Hypergraph Min-Cut | [**HeiCut**](https://github.com/KaHIP/HeiCut) | Exact minimum cuts in hypergraphs using FPT kernelization |
+| Connectivity Augmentation | [**HeiConnect**](https://github.com/HeiConnect/HeiConnect) | Algorithms for edge connectivity augmentation |
 | Community Detection | [**VieClus**](https://github.com/KaHIP/VieClus) | Evolutionary modularity-maximizing graph clustering |
 | Correlation Clustering | [**SCC**](https://github.com/KaHIP/ScalableCorrelationClustering) | Multilevel and memetic correlation clustering on signed graphs |
 | Motif Clustering | [**HeidelbergMotifClustering**](https://github.com/KaHIP/HeidelbergMotifClustering) | Triangle-motif-based local clustering via flow/partitioning |
@@ -57,6 +58,8 @@ Finding the largest set of non-adjacent vertices, or the heaviest independent se
 | Max Weight Independent Set | [**CHILS**](https://github.com/KarlsruheMIS/CHILS) | Concurrent local search heuristic for MWIS |
 | GNN-Guided Reductions | [**LearnAndReduce**](https://github.com/KarlsruheMIS/LearnAndReduce) | Graph neural network guided preprocessing for MWIS |
 | Hypergraph Indep. Set | [**HyperMIS**](https://github.com/KarlsruheMIS/HyperMIS) | Kernelization + ILP for hypergraph independent sets |
+| Hypergraph b-Matching | [**HeiHGM/Bmatching**](https://github.com/HeiHGM/Bmatching) | Solver for b-matching in hypergraphs using reductions, ILP, and local search |
+| Streaming Hypergraph Matching | [**HeiHGM/Streaming**](https://github.com/HeiHGM/Streaming) | Streaming algorithms for hypergraph matching |
 | 2-Packing Set | [**red2pack**](https://github.com/KarlsruheMIS/red2pack) | Branch-and-reduce solver for the 2-packing set problem |
 
 ### Dynamic Graph Algorithms
