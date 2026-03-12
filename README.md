@@ -115,19 +115,6 @@ pip install chszlablib
 - **Bridging theory and practice**: quality guarantees that actually run fast
 
 ---
-
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/schulzchristian)
-
-<details>
-<summary><strong>GitHub Stats</strong></summary>
-<br>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=schulzchristian&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schulzchristian&layout=compact&hide_border=true)
-
 </details>
 
 ---
