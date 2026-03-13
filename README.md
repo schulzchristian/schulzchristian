@@ -20,6 +20,17 @@
 
 Our research sits at the intersection of algorithm theory and high-performance engineering. We attack NP-hard problems on graphs and hypergraphs through multilevel methods, evolutionary algorithms, data reduction, kernelization, local search, and parallelism.
 
+### The Unified Python Frontend
+
+All of the below, accessible from Python with a single install:
+
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install chszlablib
+```
+
+[**CHSZLabLib**](https://github.com/CHSZLab/CHSZLabLib) wraps 350k+ lines of C++ into a consistent Python API with zero-copy NumPy arrays. 26 algorithm modules, one `Graph` / `HyperGraph` interface. Designed to be usable by both humans and AI agents.
+
 ### Graph & Hypergraph Decomposition
 
 Splitting large graphs into balanced pieces while minimizing the edges cut between them. This is the foundation for parallel computing, VLSI design, route planning, and scientific simulations. Unified in the [**KaHIP**](https://github.com/KaHIP) org.
@@ -96,19 +107,6 @@ Mapping communication graphs of parallel applications onto processor topologies 
 | Longest Paths | [**KaLP**](https://karlsruhelongestpaths.github.io/) | Karlsruhe longest paths |
 | Support Vector Machines | [**KaSVM**](https://github.com/schulzchristian/multilevelSVM) | Multilevel support vector machine |
 | Transit Routing | [**Arc-FlagTB**](https://github.com/TransitRouting/Arc-FlagTB) | Public transit routing with arc-flag trip-based algorithms |
-
----
-
-## The Unified Python Frontend
-
-All of the above, accessible from Python with a single install:
-
-```bash
-python -m venv .venv && source .venv/bin/activate
-pip install chszlablib
-```
-
-[**CHSZLabLib**](https://github.com/CHSZLab/CHSZLabLib) wraps 350k+ lines of C++ into a consistent Python API with zero-copy NumPy arrays. 26 algorithm modules, one `Graph` / `HyperGraph` interface. Designed to be usable by both humans and AI agents.
 
 ---
 
