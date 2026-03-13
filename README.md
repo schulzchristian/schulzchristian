@@ -22,7 +22,7 @@ Our research sits at the intersection of algorithm theory and high-performance e
 
 ### Graph & Hypergraph Decomposition
 
-Splitting large graphs into balanced pieces while minimizing the edges cut between them. This is the foundation for parallel computing, VLSI design, route planning, and scientific simulations.
+Splitting large graphs into balanced pieces while minimizing the edges cut between them. This is the foundation for parallel computing, VLSI design, route planning, and scientific simulations. Unified in the [**KaHIP**](https://github.com/KaHIP) org.
 
 | Problem | Solver | What it does |
 |---------|--------|-------------|
@@ -36,7 +36,7 @@ Splitting large graphs into balanced pieces while minimizing the edges cut betwe
 
 ### Cuts & Clustering
 
-Finding minimum cuts, maximum cuts, and natural communities in networks.
+Finding minimum cuts, maximum cuts, and natural communities in networks. Unified in the [**KaHIP**](https://github.com/KaHIP) org.
 
 | Problem | Solver | What it does |
 |---------|--------|-------------|
@@ -51,7 +51,7 @@ Finding minimum cuts, maximum cuts, and natural communities in networks.
 
 ### Independence & Packing Problems
 
-Finding the largest set of non-adjacent vertices, or the heaviest independent set, in a graph. Fundamental NP-hard problems with applications in scheduling, resource allocation, and network analysis.
+Finding the largest set of non-adjacent vertices, or the heaviest independent set, in a graph. Fundamental NP-hard problems with applications in scheduling, resource allocation, and network analysis. Unified in the [**KaMIS**](https://github.com/KarlsruheMIS) org.
 
 | Problem | Solver | What it does |
 |---------|--------|-------------|
@@ -65,7 +65,7 @@ Finding the largest set of non-adjacent vertices, or the heaviest independent se
 
 ### Dynamic Graph Algorithms
 
-Maintaining solutions as graphs change over time, without recomputing from scratch.
+Maintaining solutions as graphs change over time, without recomputing from scratch. Unified in the [**DynGraphLab**](https://github.com/DynGraphLab) org.
 
 | Problem | Solver | What it does |
 |---------|--------|-------------|
@@ -77,7 +77,7 @@ Maintaining solutions as graphs change over time, without recomputing from scrat
 
 ### Process Mapping & HPC
 
-Mapping communication graphs of parallel applications onto processor topologies to minimize communication overhead.
+Mapping communication graphs of parallel applications onto processor topologies to minimize communication overhead. Unified in the [**KaHIP**](https://github.com/KaHIP) org.
 
 | Problem | Solver | What it does |
 |---------|--------|-------------|
