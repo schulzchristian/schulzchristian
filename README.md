@@ -86,6 +86,18 @@ Mapping communication graphs of parallel applications onto processor topologies 
 | Integrated Mapping | [**IntegratedProcessMapping**](https://github.com/KaHIP/IntegratedProcessMapping) | Multi-level integrated process mapping |
 | Streaming Mapping | [**OnlineMultiSection**](https://github.com/KaHIP/OnlineMultiSection) | Streaming process mapping |
 
+### Other
+
+| Problem | Solver | What it does |
+|---------|--------|-------------|
+| Edge Orientation | [**HeiOrient**](https://github.com/HeiOrient/HeiOrient) | Heidelberg edge orientation algorithms |
+| Graph Generation | [**KaGen**](https://github.com/sebalamm/KaGen/) | Karlsruhe graph generation for benchmarking |
+| Graph Drawing | [**KaDraw**](https://karlsruhedraw.github.io) | Karlsruhe graph drawing |
+| Longest Paths | [**KaLP**](https://karlsruhelongestpaths.github.io/) | Karlsruhe longest paths |
+| Support Vector Machines | [**KaSVM**](https://github.com/schulzchristian/multilevelSVM) | Multilevel support vector machine |
+| Max-Cut Data Reduction | [**DMAX**](https://datareductionmaxcut.github.io) | Data reduction for maximum cut |
+| Transit Routing | [**Arc-FlagTB**](https://github.com/TransitRouting/Arc-FlagTB) | Public transit routing with arc-flag trip-based algorithms |
+
 ---
 
 ## The Unified Python Frontend
