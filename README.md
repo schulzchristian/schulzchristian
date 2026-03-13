@@ -104,6 +104,7 @@ Mapping communication graphs of parallel applications onto processor topologies 
 All of the above, accessible from Python with a single install:
 
 ```bash
+python -m venv .venv && source .venv/bin/activate
 pip install chszlablib
 ```
 
