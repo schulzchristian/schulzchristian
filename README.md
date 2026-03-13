@@ -95,7 +95,6 @@ Mapping communication graphs of parallel applications onto processor topologies 
 | Graph Drawing | [**KaDraw**](https://karlsruhedraw.github.io) | Karlsruhe graph drawing |
 | Longest Paths | [**KaLP**](https://karlsruhelongestpaths.github.io/) | Karlsruhe longest paths |
 | Support Vector Machines | [**KaSVM**](https://github.com/schulzchristian/multilevelSVM) | Multilevel support vector machine |
-| Max-Cut Data Reduction | [**DMAX**](https://datareductionmaxcut.github.io) | Data reduction for maximum cut |
 | Transit Routing | [**Arc-FlagTB**](https://github.com/TransitRouting/Arc-FlagTB) | Public transit routing with arc-flag trip-based algorithms |
 
 ---
