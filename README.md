@@ -27,11 +27,11 @@ Splitting large graphs into balanced pieces while minimizing the edges cut betwe
 | Problem | Solver | What it does |
 |---------|--------|-------------|
 | Graph Partitioning | [**KaHIP**](https://github.com/KaHIP/KaHIP) | Multilevel k-way partitioning in Strong/Eco/Fast modes, evolutionary, distributed (ParHIP), edge partitioning, node ordering |
+| Hypergraph Partitioning | [**KaHyPar**](https://github.com/kahypar/kahypar) | n-level hypergraph partitioning with direct k-way and recursive bisection |
+| Parallel Hypergraph Part. | [**Mt-KaHyPar**](https://github.com/kahypar/mt-kahypar) | Multi-threaded hypergraph partitioning for massive instances |
 | Parallel Partitioning | [**KaMinPar**](https://github.com/KaHIP/KaMinPar) | Shared-memory and distributed-memory parallel graph partitioning |
 | Streaming Partitioning | [**HeiStream**](https://github.com/KaHIP/HeiStream) | Buffered streaming graph partitioning for graphs that don't fit in memory |
 | Compressed Streaming | [**StreamCPI**](https://github.com/KaHIP/CompressedStreamingGraphPartitioning) | Memory-efficient streaming partitioning via run-length compression |
-| Hypergraph Partitioning | [**KaHyPar**](https://github.com/kahypar/kahypar) | n-level hypergraph partitioning with direct k-way and recursive bisection |
-| Parallel Hypergraph Part. | [**Mt-KaHyPar**](https://github.com/kahypar/mt-kahypar) | Multi-threaded hypergraph partitioning for massive instances |
 | Streaming Hypergraph Part. | [**FREIGHT**](https://github.com/KaHIP/FREIGHT) | Fast one-pass streaming hypergraph partitioning (**SEA 2023 Best Paper**) |
 
 ### Cuts & Clustering
