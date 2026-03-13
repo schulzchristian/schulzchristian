@@ -43,7 +43,7 @@ Finding minimum cuts, maximum cuts, and natural communities in networks. Unified
 | Minimum Cut | [**VieCut**](https://github.com/KaHIP/VieCut) | Shared-memory parallel exact and inexact minimum cuts, cactus representations, multiterminal cuts |
 | Maximum Cut | [**fpt-max-cut**](https://github.com/KaHIP/fpt-max-cut) | FPT kernelization + exact/heuristic solvers for max-cut |
 | Hypergraph Min-Cut | [**HeiCut**](https://github.com/KaHIP/HeiCut) | Exact minimum cuts in hypergraphs using FPT kernelization |
-| Connectivity Augmentation | [**HeiConnect**](https://github.com/HeiConnect/HeiConnect) | Algorithms for edge connectivity augmentation |
+| Connectivity Augmentation | [**HeiConnect**](https://github.com/KaHIP/HeiConnect) | Weighted connectivity augmentation via greedy heuristics, local search, and ILP-based exact solvers |
 | Community Detection | [**VieClus**](https://github.com/KaHIP/VieClus) | Evolutionary modularity-maximizing graph clustering |
 | Correlation Clustering | [**SCC**](https://github.com/KaHIP/ScalableCorrelationClustering) | Multilevel and memetic correlation clustering on signed graphs |
 | Motif Clustering | [**HeidelbergMotifClustering**](https://github.com/KaHIP/HeidelbergMotifClustering) | Triangle-motif-based local clustering via flow/partitioning |
