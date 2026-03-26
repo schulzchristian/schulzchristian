@@ -31,6 +31,10 @@ pip install chszlablib
 
 [**CHSZLabLib**](https://github.com/CHSZLab/CHSZLabLib) wraps 350k+ lines of C++ into a consistent Python API with zero-copy NumPy arrays. 26 algorithm modules, one `Graph` / `HyperGraph` interface. Designed to be usable by both humans and AI agents.
 
+### Agentic Algorithm Engineering
+
+[**AgenticAlgorithmEngineering**](https://github.com/CHSZLab/AgenticAlgorithmEngineering) hands the full Algorithm Engineering cycle to autonomous AI agents. The agent formulates hypotheses, implements optimizations, runs experiments, and evaluates results, iterating continuously without human intervention. Point it at your C++ project and let it optimize. Includes a community-contributed knowledge base of optimization techniques and lessons learned.
+
 ### Graph & Hypergraph Decomposition
 
 Splitting large graphs into balanced pieces while minimizing the edges cut between them. This is the foundation for parallel computing, VLSI design, route planning, and scientific simulations. Unified in the [**KaHIP**](https://github.com/KaHIP) org.
